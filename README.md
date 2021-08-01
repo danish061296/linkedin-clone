@@ -2,6 +2,8 @@
 
 <a href="https://linkedin-clone-f656f.web.app">LIVE DEMO</a>
 
+Add user account, upload posts, and log out user.
+
 ## Test Login Credentials
 
 email: danish@gmail.com
@@ -11,6 +13,14 @@ password: 123123
 ## Registration
 
 Sign up with a new account, insert full name and profile image link (optional) 
+
+## App's Screenshots
+
+
+<img src="images/linkedin-1.png" />
+
+<img src="images/linkedin-2.png" />
+
 
 ## Tech stack:
 
